@@ -27,5 +27,7 @@ The UI is *highly* animated, and is meant to be simple to use(assuming that you 
 
 If you have a questions or a feature request, open an issue! I will try my best to solve/respond to all of them.
 
-(This is probably my best project, and I am pretty happy with it, so please star the repo if you like it)
+`(This is probably my best project, and I am pretty happy with it, so please star the repo if you like it)`
+
+
 [Issues](https://github.com/benni-ben/lottie-viewer-js/issues)(incase you can't see the top of the page)
