@@ -26,3 +26,5 @@ Unlike most Lottie animation players that run in the browser, this version can r
 The UI is *highly* animated, and is meant to be simple to use(assuming that you know what Lottie is).
 
 If you have a questions or a feature request, open an issue! I will try my best to solve/respond to all of them.
+
+[Issues](https://github.com/benni-ben/lottie-viewer-js/issues)(incase you can't see the top of the page)
